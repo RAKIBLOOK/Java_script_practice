@@ -1,0 +1,9 @@
+const z = 30;
+{
+
+const x = 90;
+console.log(x);
+
+
+}
+console.log(z);
